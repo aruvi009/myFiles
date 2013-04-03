@@ -1,0 +1,1766 @@
+[08-Sep-2012 11:27:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 11:27:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//profile/profile__Koala.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//profile/profile__Koala.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//profile/profile__Koala.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//profile/profile__Koala.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//profile/profile__Koala.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:21:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[08-Sep-2012 16:22:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[17-Sep-2012 07:14:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[17-Sep-2012 07:14:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[17-Sep-2012 07:14:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[17-Sep-2012 07:14:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[17-Sep-2012 07:15:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[17-Sep-2012 07:15:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: /home/ellipsis/public_html/../../upload//banner/banner_Lighthouse.jpg' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(96): ThumbBase->__construct('/home/ellipsis/...', false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('/home/ellipsis/...', Array, false)
+#4 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('/home/ellipsis/...')
+#5 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[19-Sep-2012 12:49:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[19-Sep-2012 12:49:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[19-Sep-2012 12:49:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[19-Sep-2012 12:49:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[19-Sep-2012 12:53:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[19-Sep-2012 12:54:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:31:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:31:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:32:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:32:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:33:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:33:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:33:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:33:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:34:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:38:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:38:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:39:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:39:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:40:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[21-Sep-2012 03:56:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[22-Sep-2012 05:42:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[22-Sep-2012 05:50:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[22-Sep-2012 05:59:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[22-Sep-2012 05:59:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[22-Sep-2012 16:15:34 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 08:55:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 08:55:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 09:07:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 09:07:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 09:07:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 09:07:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 09:07:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 09:46:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 09:46:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 14:08:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[24-Sep-2012 14:08:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[25-Sep-2012 08:12:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[25-Sep-2012 08:12:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:22:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:23:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:26:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:26:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:29:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:29:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:37:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:37:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:38:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:38:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:39:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:43:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 06:43:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 11:44:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 11:45:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 11:47:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 11:47:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 11:48:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 11:48:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 12:18:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 12:28:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 12:28:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 12:28:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[27-Sep-2012 12:28:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:39:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:39:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:39:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:39:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:39:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:39:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:40:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:40:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:40:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:40:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:41:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:41:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:41:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 00:41:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 07:10:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 07:10:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 07:10:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 07:10:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[28-Sep-2012 07:12:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 06:18:18 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 4096 bytes) in /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php on line 111
+[01-Oct-2012 06:18:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 06:18:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 06:56:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 06:56:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 07:03:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 07:03:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 07:07:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 07:07:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 07:07:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 07:07:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 07:09:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 07:15:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 07:15:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:09:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:09:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:09:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:09:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:10:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:10:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:13:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:39:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:39:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:42:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:45:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//banner/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//b...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//b...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//profile/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 09:47:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:18:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:18:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:27:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:27:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:28:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:29:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:29:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:31:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:31:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:33:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:34:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:34:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:36:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:38:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[01-Oct-2012 12:38:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 01:16:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 01:16:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 01:35:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:15:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:15:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:29:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:30:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:30:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:30:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:35:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:40:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:40:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:47:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 03:48:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 04:02:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 04:02:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 04:03:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 04:03:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 04:10:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 04:12:57 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 04:22:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[02-Oct-2012 05:24:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 04:01:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 04:01:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 04:01:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 04:04:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 04:05:34 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 04:06:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 04:08:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 04:08:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 04:16:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 09:01:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 09:24:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 11:42:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[03-Oct-2012 11:42:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 04:00:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 05:50:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 05:50:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 05:50:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 05:50:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 05:51:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 05:51:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:16:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:16:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:21:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:29:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:30:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:32:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:33:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:33:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:37:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:38:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[04-Oct-2012 09:41:23 UTC] PHP Fatal error:  Out of memory (allocated 4718592) (tried to allocate 4096 bytes) in /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php on line 111
+[04-Oct-2012 09:58:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[05-Oct-2012 05:27:57 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[05-Oct-2012 08:00:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[05-Oct-2012 08:16:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[05-Oct-2012 11:40:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[05-Oct-2012 12:30:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[05-Oct-2012 12:30:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[05-Oct-2012 12:31:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[06-Oct-2012 06:08:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[06-Oct-2012 06:08:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
+[06-Oct-2012 06:12:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File is not a valid image: ../../upload//package/' in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(1483): ThumbBase->triggerError('File is not a v...')
+#1 /home/ellipsis/public_html/test/TTL/inc/phpThumb/GdThumb.inc.php(98): GdThumb->determineFormat()
+#2 /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbLib.inc.php(127): GdThumb->__construct('../../upload//p...', Array, false)
+#3 /home/ellipsis/public_html/test/TTL/inc/phpThumb/PHPThumb.php(63): PhpThumbFactory::create('../../upload//p...')
+#4 {main}
+  thrown in /home/ellipsis/public_html/test/TTL/inc/phpThumb/ThumbBase.inc.php on line 193
